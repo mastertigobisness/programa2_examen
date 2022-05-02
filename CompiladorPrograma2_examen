@@ -1,0 +1,26 @@
+Compiling project changes...
+--------
+- Project Filename: C:\Users\PC-3\Pictures\jean progra\programa2_examen\programa2_examen.dev
+- Compiler Name: TDM-GCC 4.9.2 32-bit Release
+
+Building makefile...
+--------
+- Filename: C:\Users\PC-3\Pictures\jean progra\programa2_examen\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: C:\Program Files\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "C:\Users\PC-3\Pictures\jean progra\programa2_examen\Makefile.win" all
+
+g++.exe -c MEDICINA.cpp -o MEDICINA.o -I"C:/Program Files/Dev-Cpp/MinGW64/include" -I"C:/Program Files/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -m32
+
+g++.exe MEDICINA.o -o programa2_examen.exe -L"C:/Program Files/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32" -static-libgcc -m32
+
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: C:\Users\PC-3\Pictures\jean progra\programa2_examen\programa2_examen.exe
+- Output Size: 1,30381298065186 MiB
+- Compilation Time: 2,26s
